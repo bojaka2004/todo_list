@@ -3,7 +3,7 @@
 
 
 ## 效果GIF
-![这是一张图片](images\演示动画.gif "示例图片标题")
+![效果展示](https://github.com/bojaka2004/todo_list/blob/main/images/%E6%BC%94%E7%A4%BA%E5%8A%A8%E7%94%BB.gif)
 
 
 ## 在线地址 https://mf.ogumo.net

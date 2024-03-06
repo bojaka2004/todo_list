@@ -16,5 +16,9 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bojaka2004/todo_list.git"
   }
 }
